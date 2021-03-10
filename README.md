@@ -16,6 +16,7 @@ Primary:
 ![React](https://img.shields.io/badge/React-05122A.svg?style=flat&logo=React)
 ![Next.JS](https://img.shields.io/badge/Next.JS-05122A.svg?style=flat&logo=Next.js)
 ![Gatsby.JS](https://img.shields.io/badge/Gatsby.JS-05122A.svg?style=flat&logo=Gatsby)
+![Node.JS](https://img.shields.io/badge/Node.JS-05122A.svg?style=flat&logo=Node.JS)
 ![Sass](https://img.shields.io/badge/Sass-05122A.svg?style=flat&logo=SASS)
 ![less](https://img.shields.io/badge/less-05122A.svg?style=flat&logo=less)
 ![GraphQL](https://img.shields.io/badge/GraphQL-05122A.svg?style=flat&logo=graphql)
