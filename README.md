@@ -5,11 +5,11 @@ I am a Software Developer, having over 4 years of experience in Computer science
 - 🔭 I’m currently working on [EZ-Digital](https://ez-digital.com/) (Los Angeles, California) as a Remote Front-End Developer.
 - 🌱 I’m currently mastering JS/React/NextJS/GatsbyJS.
 - 👯 I’m looking to collaborate on React Native side project.
-- 💬 Ask me about Web development.
+<!---- 💬 Ask me about Web development. --->
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-barbakadze-2792631a0/)
 - ⚡ Fun fact: The fun fact is that there is no fun fact to say.
 
-## Skills and Tools
+## 👨‍💻 Skills and Tools
 Primary:
 ![Javascript](https://img.shields.io/badge/JavaScript-05122A.svg?style=flat&logo=Javascript)
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A.svg?style=flat&logo=Typescript)
@@ -47,16 +47,16 @@ OS:
 ![Linux](https://img.shields.io/badge/Linux-05122A.svg?style=flat&logo=linux)
 ![Debian](https://img.shields.io/badge/Debian-05122A.svg?style=flat&logo=debian)
 
-## Visitors: ![Visitor Count](https://profile-counter.glitch.me/DanielBarbakadze/count.svg)
+## 👥 Visitors: ![Visitor Count](https://profile-counter.glitch.me/DanielBarbakadze/count.svg)
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!---- 
 [![Advanced-JS-and-React-Basics](https://github-readme-stats.vercel.app/api/pin/?username=danielbarbakadze&repo=Advanced-JS-and-React-Basics&theme=react)](https://github.com/DanielBarbakadze/Advanced-JS-and-React-Basics)
 [![GatsbyJS-with-React-and-WordPress](https://github-readme-stats.vercel.app/api/pin/?username=danielbarbakadze&repo=GatsbyJS-with-React-and-WordPress&theme=react)](https://github.com/DanielBarbakadze/GatsbyJS-with-React-and-WordPress)
 
 [![hangman-kotlin](https://github-readme-stats.vercel.app/api/pin/?username=danielbarbakadze&repo=hangman-kotlin&theme=ayu-mirage)](https://github.com/DanielBarbakadze/hangman-kotlin)
 [![JavaProject](https://github-readme-stats.vercel.app/api/pin/?username=Seberyak&repo=JavaProject&show_owner=true&theme=ayu-mirage)](https://github.com/Seberyak/JavaProject)
-
+--->
 ![DanielBarbakadze's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielBarbakadze&show_icons=true&theme=tokyonight)
