@@ -1,16 +1,60 @@
-### Hi there 👋
+## Hi there 👋 
 
-<!--
-**DanielBarbakadze/DanielBarbakadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer, having over 4 years of experience in Computer science and +2 years of experience in Front-End development, from Georgia. I am the instructor of two training courses these are Web Basics(HTML, CSS, Basics of JS) and Advanced JS & React Basics. In a nutshell, I love what I do.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [EZ-Digital](https://ez-digital.com/) (Los Angeles, California) as a Remote Front-End Developer.
+- 🌱 I’m currently mastering JS/React/NextJS/GatsbyJS.
+- 👯 I’m looking to collaborate on React Native side project.
+- 💬 Ask me about Web development.
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-barbakadze-2792631a0/)
+- ⚡ Fun fact: The fun fact is that there is no fun fact to say.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Tools
+Primary:
+![Javascript](https://img.shields.io/badge/JavaScript-05122A.svg?style=flat&logo=Javascript)
+![Typescript](https://img.shields.io/badge/TypeScript-05122A.svg?style=flat&logo=Typescript)
+![React](https://img.shields.io/badge/React-05122A.svg?style=flat&logo=React)
+![Next.JS](https://img.shields.io/badge/Next.JS-05122A.svg?style=flat&logo=Next.js)
+![Gatsby.JS](https://img.shields.io/badge/Gatsby.JS-05122A.svg?style=flat&logo=Gatsby)
+![less](https://img.shields.io/badge/less-05122A.svg?style=flat&logo=less)
+![GraphQL](https://img.shields.io/badge/GraphQL-05122A.svg?style=flat&logo=graphql)
+![Cplusplus](https://img.shields.io/badge/++-05122A.svg?style=flat&logo=c)
+
+Secondary:
+![Python](https://img.shields.io/badge/Python-05122A.svg?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-05122A.svg?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-05122A.svg?style=flat&logo=Kotlin)
+![MySQL](https://img.shields.io/badge/MySQL-05122A.svg?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-05122A.svg?style=flat&logo=php)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A.svg?style=flat&logo=bootstrap)
+
+Tools:
+![Git](https://img.shields.io/badge/Git-05122A.svg?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-05122A.svg?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/Markdown-05122A.svg?style=flat&logo=markdown)
+![Trello](https://img.shields.io/badge/Trello-05122A.svg?style=flat&logo=trello)
+![Jira](https://img.shields.io/badge/Jira-05122A.svg?style=flat&logo=jira)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-05122A.svg?style=flat&logo=digitalocean)
+
+Editors: 
+![VSCode](https://img.shields.io/badge/VSCode-05122A.svg?style=flat&logo=visual-studio-code)
+![JetBrains](https://img.shields.io/badge/JetBrains-05122A.svg?style=flat&logo=JetBrains)
+![androidStudio](https://img.shields.io/badge/Android%20Studio-05122A.svg?style=flat&logo=android-studio)
+
+OS:
+![Linux](https://img.shields.io/badge/Linux-05122A.svg?style=flat&logo=linux)
+![Debian](https://img.shields.io/badge/Debian-05122A.svg?style=flat&logo=debian)
+
+## Visitors: ![Visitor Count](https://profile-counter.glitch.me/DanielBarbakadze/count.svg)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Advanced-JS-and-React-Basics](https://github-readme-stats.vercel.app/api/pin/?username=danielbarbakadze&repo=Advanced-JS-and-React-Basics&theme=react)](https://github.com/DanielBarbakadze/Advanced-JS-and-React-Basics)
+[![GatsbyJS-with-React-and-WordPress](https://github-readme-stats.vercel.app/api/pin/?username=danielbarbakadze&repo=GatsbyJS-with-React-and-WordPress&theme=react)](https://github.com/DanielBarbakadze/GatsbyJS-with-React-and-WordPress)
+
+[![hangman-kotlin](https://github-readme-stats.vercel.app/api/pin/?username=danielbarbakadze&repo=hangman-kotlin&theme=ayu-mirage)](https://github.com/DanielBarbakadze/hangman-kotlin)
+[![JavaProject](https://github-readme-stats.vercel.app/api/pin/?username=Seberyak&repo=JavaProject&show_owner=true&theme=ayu-mirage)](https://github.com/Seberyak/JavaProject)
+
+![DanielBarbakadze's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielBarbakadze&show_icons=true&theme=tokyonight)
