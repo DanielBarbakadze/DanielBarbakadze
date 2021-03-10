@@ -49,10 +49,11 @@ OS:
 
 ## 👥 Visitors: ![Visitor Count](https://profile-counter.glitch.me/DanielBarbakadze/count.svg)
 
+<!---- 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-<!---- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=danielbarbakadze&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Advanced-JS-and-React-Basics](https://github-readme-stats.vercel.app/api/pin/?username=danielbarbakadze&repo=Advanced-JS-and-React-Basics&theme=react)](https://github.com/DanielBarbakadze/Advanced-JS-and-React-Basics)
 [![GatsbyJS-with-React-and-WordPress](https://github-readme-stats.vercel.app/api/pin/?username=danielbarbakadze&repo=GatsbyJS-with-React-and-WordPress&theme=react)](https://github.com/DanielBarbakadze/GatsbyJS-with-React-and-WordPress)
 
