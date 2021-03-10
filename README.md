@@ -20,6 +20,7 @@ Primary:
 ![Sass](https://img.shields.io/badge/Sass-05122A.svg?style=flat&logo=SASS)
 ![less](https://img.shields.io/badge/less-05122A.svg?style=flat&logo=less)
 ![GraphQL](https://img.shields.io/badge/GraphQL-05122A.svg?style=flat&logo=graphql)
+![Apache](https://img.shields.io/badge/Apache-05122A.svg?style=flat&logo=apache)
 ![Cplusplus](https://img.shields.io/badge/++-05122A.svg?style=flat&logo=c)
 
 Secondary:
@@ -29,6 +30,7 @@ Secondary:
 ![Kotlin](https://img.shields.io/badge/Kotlin-05122A.svg?style=flat&logo=Kotlin)
 ![MySQL](https://img.shields.io/badge/MySQL-05122A.svg?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/PHP-05122A.svg?style=flat&logo=php)
+![wordpress](https://img.shields.io/badge/Headless-05122A.svg?style=flat&logo=wordpress)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A.svg?style=flat&logo=bootstrap)
 
 Tools:
