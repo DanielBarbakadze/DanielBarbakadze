@@ -1,10 +1,10 @@
 ## Hi there 👋 
 
-I am a Software Developer, having over 4 years of experience in Computer science and +2 years of experience in Front-End development, from Georgia. I am the instructor of two training courses these are Web Basics(HTML, CSS, Basics of JS) and Advanced JS & React Basics. In a nutshell, I love what I do.
+I am a Software Developer, having over 5 years of experience in Computer science and +3 years of experience in Front-End development, from 🇬🇪 Georgia. I am the instructor of two training courses these are Web Basics(HTML, CSS, Basics of JS) and Advanced JS & React Basics. In a nutshell, I love what I do.
 
-- 🔭 I’m currently working on [EZ-Digital](https://ez-digital.com/) (Los Angeles, California) as a Remote Front-End Developer.
+- 🔭 I’m currently working on [StarOfService](https://www.starofservice.com/) (Paris, France) as a Remote Front-End Developer.
 - 🌱 I’m currently mastering JS/React/NextJS/GatsbyJS.
-- 👯 I’m looking to collaborate on React Native side project.
+- 👯 I’m looking to collaborate on React Native & React side projects.
 <!---- 💬 Ask me about Web development. --->
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-barbakadze-2792631a0/)
 - ⚡ Fun fact: The fun fact is that there is no fun fact to say.
