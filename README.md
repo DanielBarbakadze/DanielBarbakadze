@@ -2,7 +2,7 @@
 
 I am a Software Developer, having over 5 years of experience in Computer science and +3 years of experience in Front-End development, from 🇬🇪 Georgia. I am the instructor of two training courses these are Web Basics(HTML, CSS, Basics of JS) and Advanced JS & React Basics. In a nutshell, I love what I do.
 
-- 🔭 I’m currently working on [StarOfService](https://www.starofservice.com/) (Paris, France) as a Remote Front-End Developer.
+- 🔭 I’m currently working on [StarOfService](https://www.starofservice.com/) (Paris, France 🇫🇷) as a Remote Front-End Developer.
 - 🌱 I’m currently mastering JS/React/NextJS/GatsbyJS.
 - 👯 I’m looking to collaborate on React Native & React side projects.
 <!---- 💬 Ask me about Web development. --->
